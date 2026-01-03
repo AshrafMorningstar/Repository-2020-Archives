@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 document.addEventListener('DOMContentLoaded', () => {
     // Console easter egg
     console.log("%c ARCTIC CODE VAULT ", "background: #58a6ff; color: #040912; font-weight: bold; padding: 5px; border-radius: 3px;");
